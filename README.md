@@ -31,24 +31,4 @@ eduford/
 └── images/
 ```
 
-## ⚙️ Getting Started
-
-To run this project locally on your machine:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com
-   ```
-2. **Open the project folder:**
-   Navigate into the cloned directory.
-3. **Run the project:**
-   Open `index.html` in your favorite web browser (or use the Live Server extension in Visual Studio Code).
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com) if you want to contribute.
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
